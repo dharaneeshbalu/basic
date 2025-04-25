@@ -1,3 +1,4 @@
+git clone crtl+c
 basic git command :
 git add file_Name
 git commit -m "text"
