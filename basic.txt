@@ -5,3 +5,4 @@ git add .
 git remote add origin ctrl+c
 git branch
 git branch -m main /git push origin master
+git pull
